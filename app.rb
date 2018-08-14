@@ -1,5 +1,5 @@
 class App < Sinatra::Base
 
-  get '/hello'
+  get '/Hello, World!' do
 
 end
